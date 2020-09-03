@@ -1,19 +1,19 @@
 #tuplas
 
 tuplas=("tiago", "mario", "maria")
-print(tuplas)
+    print(tuplas)
 
 #por index
 tuplas[0]
-print(tuplas)
+    print(tuplas)
 
 #por index
 tuplas[0:1]
-print(tuplas)
+    print(tuplas)
 
 #somar tuplas
 sun=tuplas+tuplas
-print(sun)
+    print(sun)
 
 mul=tuplas*5
-print(mul)
+    print(mul)
